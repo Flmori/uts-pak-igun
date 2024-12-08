@@ -85,7 +85,9 @@
     border: 1px solid var(--bs-primary);
 }
 /*** Topbar Start ***/
-
+body {
+    background-color: black;
+}
 /*** Navbar ***/
 .navbar-light .navbar-nav .nav-link {
     position: relative;
